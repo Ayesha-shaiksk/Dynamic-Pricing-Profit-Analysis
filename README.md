@@ -60,13 +60,11 @@ This project solves that problem using analytics.
 ## 📸 Dashboard Preview
 
 ![Dashboard](Dynamic-Pricing-Profit-Analysis/dashboard/tableau_dashboard.png)
-
 ---
 
 ## 📥 Download Full Dashboard
 
-👉 [Open Tableau Dashboard](dashboard/pricing_dashboard.twbx)
-
+👉 [Open Tableau Dashboard](Dynamic-Pricing-Profit-Analysis/dashboard/pricing_dashboard.twbx)
 ---
 
 ## 🚀 Outcome
@@ -74,6 +72,12 @@ This project solves that problem using analytics.
 Built a business-ready pricing system that combines analytics and strategy to improve profitability.
 
 ---
+## 📈 Results
+
+- Achieved ~10–12% potential profit improvement
+- Identified top-performing categories for price increase
+- Detected high freight cost products reducing margins
+- Built actionable pricing strategy recommendations
 
 ## 📌 Author
 
