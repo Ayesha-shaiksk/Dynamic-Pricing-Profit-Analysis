@@ -59,7 +59,7 @@ This project solves that problem using analytics.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard/tableau_dashboard.png)
+![Dashboard](tableau_dashboard.png.png)
 
 ---
 
