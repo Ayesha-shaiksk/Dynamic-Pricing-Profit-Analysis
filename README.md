@@ -59,7 +59,7 @@ This project solves that problem using analytics.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](tableau_dashboard.png)
+![Dashboard](Dynamic-Pricing-Profit-Analysis/dashboard/tableau_dashboard.png)
 
 ---
 
