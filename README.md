@@ -60,11 +60,13 @@ This project solves that problem using analytics.
 ## 📸 Dashboard Preview
 
 ![Dashboard](Dynamic-Pricing-Profit-Analysis/dashboard/tableau_dashboard.png)
+
 ---
 
 ## 📥 Download Full Dashboard
 
 👉 [Open Tableau Dashboard](Dynamic-Pricing-Profit-Analysis/dashboard/pricing_dashboard.twbx)
+
 ---
 
 ## 🚀 Outcome
